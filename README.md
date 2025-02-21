@@ -1,1 +1,1 @@
-# WaveLiteNet:Ultra-Lightweigh tWavelet-Enhanced CNN for Chest Radiology Analysis
+# WaveLiteNet:Ultra-Lightweight Wavelet-Enhanced CNN for Chest Radiology Analysis
