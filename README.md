@@ -18,7 +18,7 @@ WaveLiteNet is an **optimized, ultra-lightweight deep learning model** designed 
 │── 📂 model                         # WaveLiteNet architecture
 │── 📂 dataset                       # Sample dataset for testing
 │── 📂 experimental results          # Model predictions & evaluations
-
+```
 ## 🔧 **Installation & Setup**  
 1. **Clone the Repository**  
    ```bash
