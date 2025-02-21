@@ -15,6 +15,7 @@ WaveLiteNet is an **optimized, ultra-lightweight deep learning model** designed 
 │── 📂 training                      # Model training script
 │── 📂 preprocessing                 # preprocessing
 │── 📜 test.py                       # Model evaluation script
+│── 📜 requirements.txt              # Requirements
 │── 📂 model                         # WaveLiteNet architecture
 │── 📂 dataset                       # Sample dataset for testing
 │── 📂 experimental results          # Model predictions & evaluations
